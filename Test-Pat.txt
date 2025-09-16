@@ -6,3 +6,6 @@ Hope you had a good time on last weekend.
 You are good at PostgreSQL
 Interview
 Good at handling the team.
+
+
+AWS, Git, Terraform, VPC, EC2
