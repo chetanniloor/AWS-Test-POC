@@ -2,3 +2,5 @@ How are you ?
 How is AWS class going on ?
 
 ITs going good, looking forward to learn and gain knowledge 
+
+Lets start the Git learning and Terraform as well
